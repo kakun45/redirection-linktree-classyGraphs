@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "http://classygraphs.com/",
+      "destination": "https://linktr.ee/xeniyashoiko",
+      "statusCode": 301
+    }
+  ]
+}
